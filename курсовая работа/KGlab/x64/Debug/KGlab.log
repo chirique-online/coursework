@@ -1,0 +1,15 @@
+﻿  Render.cpp
+D:\CodeOvosh\курсач\горе микроволновое\KGlab\Render.cpp(343,53): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\CodeOvosh\курсач\горе микроволновое\KGlab\Render.cpp(524,34): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\CodeOvosh\курсач\горе микроволновое\KGlab\Render.cpp(539,31): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\CodeOvosh\курсач\горе микроволновое\KGlab\Render.cpp(542,31): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+D:\CodeOvosh\курсач\горе микроволновое\KGlab\Render.cpp(547,28): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\CodeOvosh\курсач\горе микроволновое\KGlab\Render.cpp(550,28): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+D:\CodeOvosh\курсач\горе микроволновое\KGlab\Render.cpp(645,27): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\CodeOvosh\курсач\горе микроволновое\KGlab\Render.cpp(903,32): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+D:\CodeOvosh\курсач\горе микроволновое\KGlab\Render.cpp(903,32): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\CodeOvosh\курсач\горе микроволновое\KGlab\Render.cpp(903,42): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+D:\CodeOvosh\курсач\горе микроволновое\KGlab\Render.cpp(903,42): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\CodeOvosh\курсач\горе микроволновое\KGlab\Render.cpp(903,53): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+D:\CodeOvosh\курсач\горе микроволновое\KGlab\Render.cpp(903,53): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  KGlab.vcxproj -> D:\CodeOvosh\курсач\горе микроволновое\x64\Debug\KGlab.exe
