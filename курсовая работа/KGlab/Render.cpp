@@ -1023,7 +1023,7 @@ void Render(double delta_time)
 	ss << "O - " << (isOpening ? L"[открытие]/закрытие" : L"открытие/[закрытие]") << L" двери" << std::endl;
 	ss << "SPACE - " << (isRotating ? L"[вкл]выкл  " : L" вкл[выкл] ") << L" вращение объекта" << std::endl;
 	ss << L"W/S - перемещение объекта вверх/вниз по оси z" << std::endl;
-	ss << L"Q/E - перемещение объекта вверх/вниз по оси z" << std::endl;
+	ss << L"Q/E - масштабирование объекта уменьшение/увеличение" << std::endl;
 	ss << L"F - Свет из камеры" << std::endl;
 	ss << L"G - двигать свет по горизонтали" << std::endl;
 	ss << L"Коорд. света: (" << std::setw(7) << light.x() << "," << std::setw(7) << light.y() << "," << std::setw(7) << light.z() << ")" << std::endl;
